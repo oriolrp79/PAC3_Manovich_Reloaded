@@ -20,14 +20,11 @@
 
  Un cas de creació recent són els concerts amb so binaural, en els quals es recull el so a través d’un sistema de dos micròfons en el centre físic del conjunt instrumental i que imita de forma exacte com l'oïda humana percep el so  (inclús algún model comercial té, entre els dos micròfons, una simulació de crani). 
 
-![Autor: EJ Posselius, source: Flickr, llicència CC BY-SA 2.0](https://upload.wikimedia.org/wikipedia/commons/4/48/Georg_Neumann_Ku_100_Dummy_Head.jpg)
+![Autor: EJ Posselius, source: Flickr, llicència CC BY-SA 2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Head_and_torso_simulator.jpg)
 
  Aquest so, recollit en 360 graus, és enviat a un equip informàtic per calibrar la mescla i s’envia posteriorment, mitjançant bluetooth, als auriculars que porten els assistents. Els assistents habitualment també es reparteixen en l’espai de forma circular o distribuïts entre els músics, el que també converteix aquest tipus d’experiència en el que s’anomena concert immersiu, ja que es trenca la barrera conceptual que hi ha habitualment entre públic i artista, aportant una nova dimensió a l’experiència social musical. El cas d’hibridació, doncs, neix de la unió de la interpretació musical amb la tecnologia que permet captar el so binaural i reproduir-lo als auriculars del públic.
  
 ![Autor: Juan Falú, source: Flickr, llicència CC BY-SA 2.0](https://live.staticflickr.com/7483/15756138759_5f1890abff_b.jpg)
-
-https://www.youtube.com/watch?v=7KXboihBrvs 
-###### *autor: Nico Roig, source: Youtube*
 
 ## Cas 2 d'hibridació: Parelles sentimentals virtuals
 
