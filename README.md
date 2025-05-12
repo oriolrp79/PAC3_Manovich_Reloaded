@@ -14,7 +14,7 @@
  Totes aquests invents tecnològics, aplicats a la música, van condicionar enormement la teòrica i l’estudi de la disciplina, la forma de relacionar-nos amb la música (possibilitat de concerts multitudinaris, d’escola individual, de comprar un objecte que conté música enregistrada, etc.) i inclús l’evolució dels gèneres musicals (Adell, 2004). Per posar uns pocs exemples de gèneres inevitablement transformats per la tecnologia, podem parlar de l’amplificació en el jazz i les big bands; la distorsió que va fer possible el rock’n’roll, el rock i els innombrables subestils; el sistema d’altaveus o sound systems jamaicans que van marcar l’evolució del ska, el reggae i fins la creació del reggaetón; els sintetitzadors en la música electrònica i l’experimentació electroacústica de la segona meitat de s.XX; i la tecnologia de plats de vinil i sets mescladors que van permetre les tècniques scratch en la cultura hip hop.
 
    
-![Autor: Mere Bertine, Source: Printerval, llicència CC BY-NC](/images/circular.jpg)
+![Autor: Mere Bertine, Source: Printerval, llicència CC BY-NC](images/circular.jpg)
 
  Els concerts musicals en directe o *live* (valgui la redundància) són probablement l’ànima del concepte musical, ja que la interpretació d’instruments per al gaudi de l’oient és essencial i omnipresent en tota la història. Com apunten Casas i Irizarri (2007), la forma, recepció i protocol han canviat substancialment amb els diferents formats grupals, des de la poesia trobadoresca, passant pels diferents conjunts simfònics, els canvis conceptuals de Wagner que porten als auditoris com els coneixem avui en dia i finalment l’ús de la tecnologia com a part indissociable de l’experiència musical. 
 
