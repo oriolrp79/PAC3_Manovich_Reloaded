@@ -14,43 +14,46 @@
  Totes aquests invents tecnològics, aplicats a la música, van condicionar enormement la teòrica i l’estudi de la disciplina, la forma de relacionar-nos amb la música (possibilitat de concerts multitudinaris, d’escola individual, de comprar un objecte que conté música enregistrada, etc.) i inclús l’evolució dels gèneres musicals (Adell, 2004). Per posar uns pocs exemples de gèneres inevitablement transformats per la tecnologia, podem parlar de l’amplificació en el jazz i les big bands; la distorsió que va fer possible el rock’n’roll, el rock i els innombrables subestils; el sistema d’altaveus o sound systems jamaicans que van marcar l’evolució del ska, el reggae i fins la creació del reggaetón; els sintetitzadors en la música electrònica i l’experimentació electroacústica de la segona meitat de s.XX; i la tecnologia de plats de vinil i sets mescladors que van permetre les tècniques scratch en la cultura hip hop.
 
    
-![Autor: Mere Bertine, Source: Printerval, llicència CC BY-NC](images/circular.jpg)
+![Autor: Mere Bertine, source: Printerval, llicència CC BY-NC](https://cdn.printerval.com/unsafe/960x960/assets.printerval.com/2023/03/16/641229021e6c96.88899659.jpg)
 
  Els concerts musicals en directe o *live* (valgui la redundància) són probablement l’ànima del concepte musical, ja que la interpretació d’instruments per al gaudi de l’oient és essencial i omnipresent en tota la història. Com apunten Casas i Irizarri (2007), la forma, recepció i protocol han canviat substancialment amb els diferents formats grupals, des de la poesia trobadoresca, passant pels diferents conjunts simfònics, els canvis conceptuals de Wagner que porten als auditoris com els coneixem avui en dia i finalment l’ús de la tecnologia com a part indissociable de l’experiència musical. 
 
  Un cas de creació recent són els concerts amb so binaural, en els quals es recull el so a través d’un sistema de dos micròfons en el centre físic del conjunt instrumental i que imita de forma exacte com l'oïda humana percep el so  (inclús algún model comercial té, entre els dos micròfons, una simulació de crani). 
 
- 
-![autor: EJ Posselius , source: Flickr, llicència CC BY-SA 2.0](https://upload.wikimedia.org/wikipedia/commons/4/48/Georg_Neumann_Ku_100_Dummy_Head.jpg)
+![Autor: EJ Posselius, source: Flickr, llicència CC BY-SA 2.0](https://upload.wikimedia.org/wikipedia/commons/4/48/Georg_Neumann_Ku_100_Dummy_Head.jpg)
 
  Aquest so, recollit en 360 graus, és enviat a un equip informàtic per calibrar la mescla i s’envia posteriorment, mitjançant bluetooth, als auriculars que porten els assistents. Els assistents habitualment també es reparteixen en l’espai de forma circular o distribuïts entre els músics, el que també converteix aquest tipus d’experiència en el que s’anomena concert immersiu, ja que es trenca la barrera conceptual que hi ha habitualment entre públic i artista, aportant una nova dimensió a l’experiència social musical. El cas d’hibridació, doncs, neix de la unió de la interpretació musical amb la tecnologia que permet captar el so binaural i reproduir-lo als auriculars del públic.
  
-https://live.staticflickr.com/7483/15756138759_5f1890abff_b.jpg 
-###### *autor: Juan Falú, source: Flickr, llicència CC BY-SA 2.0*
+![Autor: Juan Falú, source: Flickr, llicència CC BY-SA 2.0](https://live.staticflickr.com/7483/15756138759_5f1890abff_b.jpg)
+
 https://www.youtube.com/watch?v=7KXboihBrvs 
 ###### *autor: Nico Roig, source: Youtube*
-
-
 
 ## Cas 2 d'hibridació: Parelles sentimentals virtuals
 
  L’ésser humà és social, gregari i comunicatiu (Cortés, 2011), un mecanisme de l’espècie per sobreviure davant grans adversitats, col·laborar pels recursos i en última instància per procrear i perpetuar l'espècie (Arias, 2024).
 
  En la modernitat la tecnologia ha evolucionat cap a formes de comunicació i interacció social impensables dècades abans, capaces de interconnectar mils de milions de persones de tot el món, a través de les xarxes socials i aplicacions de missatgeria (Bertran, 2024). La paradoxa de la realitat occidental és que, tot i estar pràcticament tots els ciutadans connectats a través d’internet, els índex d’aïllament social i percepció de la soledat siguin tant alts (Reed, 2023). 
-https://images.pexels.com/photos/6029103/pexels-photo-6029103.jpeg 
-###### *Autor: Kaboompic.com Source: Pexels Llicència CC NC*
+
+![Autor: Kaboompic.com, source: Pexels, llicència CC NC](https://images.pexels.com/photos/6029103/pexels-photo-6029103.jpeg)
 
  Algunes xarxes socials s’han especialitzat en la cerca de companys sentimentals i/o sexuals (Tinder, Grindr, Badoo, Meetic, etc.), incloent diferents tipus d’orientació sexual, donant una alternativa a la cerca –més o menys espontània– de parella que es dona a la realitat analògica. Fins a aquest punt de la història, la tecnologia no ha suposat més que un mer mitjà, un intermediari, un entorn telemàtic segur, entre gent real que busca parella. Aquesta tecnologia, a 2025, segueix funcionant i té milions d’usuaris.
 
- Ara bé, amb l’entrada de la Inteligencia Artificial com a eina habitual i extesa, en el 2022 amb ChatGPT i la generació de text, la història dona un tomb, ja que les possibilitats augmenten exponencialment. La generació de text ha significat que hom pot parlar amb el sistema, a través d’un *chatbot*, fins al punt de ser difícil de distingir d’un interlocutor humà per la seva capacitat d'interacció i conversa. Aquests sistemes comprometen inclús el test de Turing, utilitzat per posar a prova el poder de raonament aparentment humà d’una màquina (Millán, 2024). [NOTA1 Aquesta idea, en ficció cinematogràfica, és retratada, per exemple, en una gran pel·lícula com és Blade Runner, en les conegudes escenes del test de resposta emocional a Rachel i el conegut monòleg del replicant que conclou “tots aquests moments es perdran com llàgrimes en la pluja”.]
+ Ara bé, amb l’entrada de la Inteligencia Artificial com a eina habitual i extesa, en el 2022 amb ChatGPT i la generació de text, la història dona un tomb, ja que les possibilitats augmenten exponencialment. La generació de text ha significat que hom pot parlar amb el sistema, a través d’un *chatbot*, fins al punt de ser difícil de distingir d’un interlocutor humà per la seva capacitat d'interacció i conversa. Aquests sistemes comprometen inclús el test de Turing, utilitzat per posar a prova el poder de raonament aparentment humà d’una màquina (Millán, 2024).<sup>1</sup> 
 
- Una màquina o sistema prou avançat, doncs, pot ser indistinguible d’un humà en el seu comportament i comunicació verbals. Una IA pot ser entrenada per assumir infinitat de rols i funcions específiques i interaccionar amb els usuaris a través dels *chatbots* (Salazar, 2024). Amb l’evolució imparable de la inteligencia artificial, ha sigut ja possible la creació d’avatars, de personatges virtuals, capaços de moure’s, parlar i escoltar, amb poca latencia (*real-time*) i de forma prou convincent com per generar interaccions empàtiques i sentimentals en els usuaris, generalment amb perfils que presenten dificultats alhora de crear vincles d’aquest tipus amb gent real (Cocho, 2024). [NOTA2: Aquesta idea es veu reflectida d’una forma magistral a la pel·lícula de ciència-ficció Her, de 2013, en la qual un home s’enamora del software d’interacció conversacional.] 
-https://heute-at-prod-images.imgix.net/2021/7/13/edc15481-06ac-48df-be0c-86593f2f522d.jpeg?auto=format 
-###### *Autor: Heute.at Source: heute.at Llicència Getty Images/iStockphoto*
+ Una màquina o sistema prou avançat, doncs, pot ser indistinguible d’un humà en el seu comportament i comunicació verbals. Una IA pot ser entrenada per assumir infinitat de rols i funcions específiques i interaccionar amb els usuaris a través dels *chatbots* (Salazar, 2024). Amb l’evolució imparable de la inteligencia artificial, ha sigut ja possible la creació d’avatars, de personatges virtuals, capaços de moure’s, parlar i escoltar, amb poca latencia (*real-time*) i de forma prou convincent com per generar interaccions empàtiques i sentimentals en els usuaris, generalment amb perfils que presenten dificultats alhora de crear vincles d’aquest tipus amb gent real (Cocho, 2024).<sup>2</sup> 
+ 
+![Autor: Heute.at, source: heute.at, llicència Getty Images/iStockphoto](https://heute-at-prod-images.imgix.net/2021/7/13/edc15481-06ac-48df-be0c-86593f2f522d.jpeg)
 
- En l’actualitat existeixen innombrables aplicacions que ofereixen aquest tipus d’interacció, descarregables en les plataformes habituals de descàrregues com Google Play o App Store, en les que s’ofereix “personalitzar” la imatge i personalitat de la parella virtual i mantenir-hi conversa a través d’un *chatbot*. Algunes tenen certes particularitats, com oferir parlar amb avatars de persones reals o poder conversar amb una persona que ja ha mort (ABC, 2025). [NOTA3: black mirror]. En la majoria, però, s’ofereix conversa sense filtres i possibilitat de contingut visual erotic i pornogràfic.
+ En l’actualitat existeixen innombrables aplicacions que ofereixen aquest tipus d’interacció, descarregables en les plataformes habituals de descàrregues com Google Play o App Store, en les que s’ofereix “personalitzar” la imatge i personalitat de la parella virtual i mantenir-hi conversa a través d’un *chatbot*. Algunes tenen certes particularitats, com oferir parlar amb avatars de persones reals o poder conversar amb una persona que ja ha mort (ABC, 2025)<sup>3</sup>. En la majoria, però, s’ofereix conversa sense filtres i possibilitat de contingut visual erotic i pornogràfic.
 
  Podem dir, seguint l’estela de Manovich (2013), que la hibridació en aquest cas es dona per la unió de la tecnologia d'intel·ligència artificial en generació d’imatge i text i la pròpia interacció social gregària humana. La necessitat de tenir una persona a prop, parlar-hi i interactuar amb ella, malgrat la persona en qüestió sigui virtual i presenti una consciència (i cos) que sabem que no té.
+
+###### Notes:
+###### 1) Aquesta idea, en ficció cinematogràfica, és retratada, per exemple, en una gran pel·lícula com és Blade Runner, en les conegudes escenes del test de resposta emocional a Rachel i el conegut monòleg del replicant que conclou “tots aquests moments es perdran com llàgrimes en la pluja”.
+###### 2) Aquesta idea es veu reflectida d’una forma magistral a la pel·lícula de ciència-ficció Her, de 2013, en la qual un home s’enamora del software d’interacció conversacional.
+###### 3) black mirror.
+___
 
 ## Referencias y Bibliografía
 
